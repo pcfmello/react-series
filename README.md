@@ -1,8 +1,8 @@
-#Placar Eletrônico v1.0
+# Placar Eletrônico v1.0
 
 Um sistema de placar eletrônico para jogos de futebol desenvolvido com ReactJS.
 
-###Instalação
+### Instalação
 1. Clone o projeto __git clone https://github.com/pcfmello/react-series.git__
 2. Acesse a pasta do projeto e rode o cmd __npm install__
 3. Instale o Webpack __sudo npm install -g webpack__
